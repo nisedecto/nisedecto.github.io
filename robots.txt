@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nisedecto.github.io/sitemap
+Sitemap: https://nisedecto.github.io/app/sitemap
+Sitemap: https://nisedecto.github.io/assets/sitemap
+Sitemap: https://nisedecto.github.io/css/sitemap
+Sitemap: https://nisedecto.github.io/includes/sitemap
+Sitemap: https://nisedecto.github.io/item/sitemap
+Sitemap: https://nisedecto.github.io/src/sitemap
